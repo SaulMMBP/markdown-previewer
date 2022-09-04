@@ -1,0 +1,8 @@
+.editor {
+    width: 50%;
+    height: 90vh;
+    resize: none;
+    border: 2px solid #e6c13e;
+    outline: none;
+    padding: 0.5rem;
+}

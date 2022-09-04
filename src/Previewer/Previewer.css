@@ -1,0 +1,8 @@
+.preview {
+    width: 50%;
+    height: 90vh;
+    background-color: white;
+    overflow: scroll;
+    border: 2px solid #e6c13e;
+    padding: 0.5rem;
+}
